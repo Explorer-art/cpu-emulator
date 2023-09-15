@@ -1,0 +1,3 @@
+PUSH 5
+POP AX
+HLT
