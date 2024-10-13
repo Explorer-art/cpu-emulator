@@ -1,2 +1,2 @@
-# cpu-emulator
+# CPU Emulator
 CPU Emulator 16 bits
